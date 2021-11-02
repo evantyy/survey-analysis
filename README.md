@@ -2,7 +2,8 @@
 
 The survey aims to study the well-being of individuals across Europe in 2016 and how it affected their outlook on their occupation. 7,647 individuals’ responses were collected, based on 11 questions about their life (Q2a,b & Q87a,b,c,d,e) and job satisfaction (Q90a,b,c,f).
 
-Data: [Sixth European Working Conditions Survey](https://www.eurofound.europa.eu/publications/report/2016/working-conditions/sixth-european-working-conditions-survey-overview-report)
+Data: [Sixth European Working Conditions Survey](https://www.eurofound.europa.eu/publications/report/2016/working-conditions/sixth-european-working-conditions-survey-overview-report) <br>
+Report: [Personal RMarkdown Report](https://evantyy.github.io/survey-analysis/)
 
 ## Description
 
